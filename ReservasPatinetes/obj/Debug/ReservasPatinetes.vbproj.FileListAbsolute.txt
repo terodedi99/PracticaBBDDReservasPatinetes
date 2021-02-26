@@ -1,0 +1,38 @@
+C:\ProyectosC\Practica3Grupo4\ReservasPatinetes\ReservasPatinetes\bin\Debug\ReservasPatinetes.exe.config
+C:\ProyectosC\Practica3Grupo4\ReservasPatinetes\ReservasPatinetes\obj\Debug\ReservasPatinetes.vbprojResolveAssemblyReference.cache
+C:\ProyectosC\Practica3Grupo4\ReservasPatinetes\ReservasPatinetes\obj\Debug\ReservasPatinetes.Resources.resources
+C:\ProyectosC\Practica3Grupo4\ReservasPatinetes\ReservasPatinetes\obj\Debug\ReservasPatinetes.BDconectar.resources
+C:\ProyectosC\Practica3Grupo4\ReservasPatinetes\ReservasPatinetes\obj\Debug\ReservasPatinetes.vbproj.GenerateResource.Cache
+C:\ProyectosC\Practica3Grupo4\ReservasPatinetes\ReservasPatinetes\obj\Debug\ReservasPatinetes.xml
+C:\ProyectosC\Practica3Grupo4\ReservasPatinetes\ReservasPatinetes\bin\Debug\ReservasPatinetes.exe
+C:\ProyectosC\Practica3Grupo4\ReservasPatinetes\ReservasPatinetes\bin\Debug\ReservasPatinetes.pdb
+C:\ProyectosC\Practica3Grupo4\ReservasPatinetes\ReservasPatinetes\bin\Debug\ReservasPatinetes.xml
+C:\ProyectosC\Practica3Grupo4\ReservasPatinetes\ReservasPatinetes\obj\Debug\ReservasPatinetes.exe
+C:\ProyectosC\Practica3Grupo4\ReservasPatinetes\ReservasPatinetes\obj\Debug\ReservasPatinetes.pdb
+C:\ProyectosC\Practica3Grupo4\ReservasPatinetes\ReservasPatinetes\obj\Debug\ReservasPatinetes.VistaGeneral.resources
+C:\Users\Laura\Documents\Visual Studio 2017\Backup Files\ReservasPatinetes\bin\Debug\ReservasPatinetes.exe.config
+C:\Users\Laura\Documents\Visual Studio 2017\Backup Files\ReservasPatinetes\bin\Debug\ReservasPatinetes.exe
+C:\Users\Laura\Documents\Visual Studio 2017\Backup Files\ReservasPatinetes\bin\Debug\ReservasPatinetes.pdb
+C:\Users\Laura\Documents\Visual Studio 2017\Backup Files\ReservasPatinetes\bin\Debug\ReservasPatinetes.xml
+C:\Users\Laura\Documents\Visual Studio 2017\Backup Files\ReservasPatinetes\obj\Debug\ReservasPatinetes.vbprojAssemblyReference.cache
+C:\Users\Laura\Documents\Visual Studio 2017\Backup Files\ReservasPatinetes\obj\Debug\ReservasPatinetes.Resources.resources
+C:\Users\Laura\Documents\Visual Studio 2017\Backup Files\ReservasPatinetes\obj\Debug\ReservasPatinetes.BDconectar.resources
+C:\Users\Laura\Documents\Visual Studio 2017\Backup Files\ReservasPatinetes\obj\Debug\ReservasPatinetes.VistaGeneral.resources
+C:\Users\Laura\Documents\Visual Studio 2017\Backup Files\ReservasPatinetes\obj\Debug\ReservasPatinetes.vbproj.GenerateResource.cache
+C:\Users\Laura\Documents\Visual Studio 2017\Backup Files\ReservasPatinetes\obj\Debug\ReservasPatinetes.vbproj.CoreCompileInputs.cache
+C:\Users\Laura\Documents\Visual Studio 2017\Backup Files\ReservasPatinetes\obj\Debug\ReservasPatinetes.exe
+C:\Users\Laura\Documents\Visual Studio 2017\Backup Files\ReservasPatinetes\obj\Debug\ReservasPatinetes.xml
+C:\Users\Laura\Documents\Visual Studio 2017\Backup Files\ReservasPatinetes\obj\Debug\ReservasPatinetes.pdb
+C:\Users\34638\Documents\Ingeniería Informática\Curso 2018 - 2019\Bases de Datos\Prácticas\Práctica3\ReservasPatinetes\bin\Debug\ReservasPatinetes.exe.config
+C:\Users\34638\Documents\Ingeniería Informática\Curso 2018 - 2019\Bases de Datos\Prácticas\Práctica3\ReservasPatinetes\bin\Debug\ReservasPatinetes.exe
+C:\Users\34638\Documents\Ingeniería Informática\Curso 2018 - 2019\Bases de Datos\Prácticas\Práctica3\ReservasPatinetes\bin\Debug\ReservasPatinetes.pdb
+C:\Users\34638\Documents\Ingeniería Informática\Curso 2018 - 2019\Bases de Datos\Prácticas\Práctica3\ReservasPatinetes\bin\Debug\ReservasPatinetes.xml
+C:\Users\34638\Documents\Ingeniería Informática\Curso 2018 - 2019\Bases de Datos\Prácticas\Práctica3\ReservasPatinetes\obj\Debug\ReservasPatinetes.vbprojAssemblyReference.cache
+C:\Users\34638\Documents\Ingeniería Informática\Curso 2018 - 2019\Bases de Datos\Prácticas\Práctica3\ReservasPatinetes\obj\Debug\ReservasPatinetes.Resources.resources
+C:\Users\34638\Documents\Ingeniería Informática\Curso 2018 - 2019\Bases de Datos\Prácticas\Práctica3\ReservasPatinetes\obj\Debug\ReservasPatinetes.BDconectar.resources
+C:\Users\34638\Documents\Ingeniería Informática\Curso 2018 - 2019\Bases de Datos\Prácticas\Práctica3\ReservasPatinetes\obj\Debug\ReservasPatinetes.VistaGeneral.resources
+C:\Users\34638\Documents\Ingeniería Informática\Curso 2018 - 2019\Bases de Datos\Prácticas\Práctica3\ReservasPatinetes\obj\Debug\ReservasPatinetes.vbproj.GenerateResource.cache
+C:\Users\34638\Documents\Ingeniería Informática\Curso 2018 - 2019\Bases de Datos\Prácticas\Práctica3\ReservasPatinetes\obj\Debug\ReservasPatinetes.vbproj.CoreCompileInputs.cache
+C:\Users\34638\Documents\Ingeniería Informática\Curso 2018 - 2019\Bases de Datos\Prácticas\Práctica3\ReservasPatinetes\obj\Debug\ReservasPatinetes.exe
+C:\Users\34638\Documents\Ingeniería Informática\Curso 2018 - 2019\Bases de Datos\Prácticas\Práctica3\ReservasPatinetes\obj\Debug\ReservasPatinetes.xml
+C:\Users\34638\Documents\Ingeniería Informática\Curso 2018 - 2019\Bases de Datos\Prácticas\Práctica3\ReservasPatinetes\obj\Debug\ReservasPatinetes.pdb
